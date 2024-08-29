@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate Data enthusiast with a keen interest in l
 ## 🧑‍💻 Projects
 Here are some of the projects that showcase my skills and interests:
 
-[**1. Streaming Influence: Analyzing the Causal Impact of Twitch Viewership on Active Player Engagement:**](https://github.com/sputnik-h/streaming-influence-on-game-popularity)
+[**1. Streaming Effect: Analyzing the Causal Impact of Twitch Viewership on Active Player Engagement:**](https://github.com/sputnik-h/streaming-influence-on-game-popularity)
 
 This project aims to analyze the causal relationship between a game’s Twitch viewership and its active player engagement, using Tom Clancy’s Rainbow Six Siege as the primary case study. The analysis extends to other popular online multiplayer shooting games, such as Counter-Strike 2 and Rust.
 
@@ -18,7 +18,7 @@ This project aims to analyze the causal relationship between a game’s Twitch v
 
 **- Highlights:** Found signficant casual links between streaming viewership and active player count. Estimated causal effect between 2%-4%, with time-delayed effect.
 
-[**2. Identifying Real vs. AI-Generated Shoes Using Convolutional Neural Networks:**](https://github.com/sputnik-h/fake-vs-real-images)
+[**2. Real Shoes or not: AI vs. Real Image Classification:**](https://github.com/sputnik-h/fake-vs-real-images)
 
 This project uses a convolutional neural network (CNN) to distinguish between real and AI-generated images of shoes, addressing the challenges of authenticity and trust in visual media
 
