@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ethan!
-Welcome to my GitHub! I'm a passionate Data enthusiast with a keen interest in leveraging data to uncover insights, build predictive models, and drive decision-making. I am eager to kickstart my career in Data Science and contribute to impactful projects that solve real-world problems.
+Welcome to my GitHub! I'm a passionate data enthusiast with a keen interest in leveraging data to uncover insights, build predictive models, and drive decision-making. I am eager to kickstart my career in Data Science and contribute to impactful projects that solve real-world problems.
 
 ## 🌟 About Me
 🎓 Education: BA in Psychology and Communication @UCLA, MS in Business Analytics @USC.
