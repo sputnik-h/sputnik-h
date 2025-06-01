@@ -5,7 +5,9 @@ Welcome to my GitHub! I'm a passionate data enthusiast with a keen interest in l
 🎓 Education: BA in Psychology and Communication @UCLA, MS in Business Analytics @USC.
 
 📊 Focus Areas: Machine Learning, Data Analysis, Causal Inference, Time Series Forecasting, NLP.
+
 🧠 Skills: Data Cleaning and Transformation, ETL, Data Engineering, A/B Testing, Hypothesis Testing 
+
 🛠️ Tools: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch), SQL, SAS, Tableau.
 
 📈 Interests: Predictive modeling, data visualization, causal inference, and deep learning.
